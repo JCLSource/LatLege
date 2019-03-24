@@ -12,4 +12,4 @@ Mac instructions: Download installer file (if denied, click arrow and keep anywa
 #### Windows
 Windows Installer: https://github.com/JCLSource/LatLege/raw/master/SetupLatLegeByJCLSource.exe
 
-Windows instructions:  Download installer file (if denied, click arrow and keep anyway). Then run the exe (if denied by smartscreen, click learn more and run anyway). Then follow instructions. Run from start menu (if denied by smartscreen, click learn more and run anyway).
+Windows instructions:  Download installer file (if denied, click arrow and keep anyway). Then run the exe (if denied by smartscreen, click learn more and run anyway). Then follow instructions. Run from start menu by typing LatLege By JCLSource (if denied by smartscreen, click learn more and run anyway).
